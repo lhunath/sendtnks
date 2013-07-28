@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Captions">
+	<rect x="-192" width="185" height="99"/>
+	<rect y="-36" width="100" height="30"/>
+	<text transform="matrix(1 0 0 1 66 -19.5)" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">http://thenounproject.com</text>
+	<text transform="matrix(1 0 0 1 7.166 -24.5)"><tspan x="0" y="0" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="6.1578">The Noun Project</tspan><tspan x="1.12" y="4.8" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="4">Icon Template</tspan></text>
+	<text transform="matrix(1 0 0 1 -178.5 10.5)" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="6.1578">Reminders</text>
+	<line fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" x1="8" y1="-14.5" x2="18" y2="-14.5"/>
+	<line fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" x1="-179" y1="16.5" x2="-162" y2="16.5"/>
+	<g>
+		<g>
+			<g>
+				<rect x="-170.802" y="31.318" fill="#B6CF00" width="8.721" height="8.642"/>
+				<path fill="#B6CF00" d="M-164.455,42.312h4.747v-4.703h-4.747V42.312z M-159.266,42.749h-5.63V37.17h5.63V42.749      L-159.266,42.749z M-166.221,44.062h8.279v-8.203h-8.279V44.062L-166.221,44.062z M-157.5,44.5h-9.163v-9.079h9.163V44.5      L-157.5,44.5z"/>
+				<polygon fill="#B6CF00" points="-166.149,44.133 -166.292,43.991 -158.013,35.787 -157.871,35.929     "/>
+			</g>
+		</g>
+	</g>
+	<rect x="-179" y="58" fill="none" width="35" height="32.5"/>
+	<text transform="matrix(1 0 0 1 -179 60.1572)"><tspan x="0" y="0" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="3">Strokes</tspan><tspan x="0" y="5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">Try to keep strokes at 4px</tspan><tspan x="0" y="10" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">Minimum stroke weight is 2px</tspan><tspan x="0" y="14.5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">For thicker strokes use even </tspan><tspan x="0" y="17.5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">numbers: 6px, 8px etc.</tspan><tspan x="0" y="22" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="2.4">Remember to expand strokes </tspan><tspan x="0" y="25" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="2.4">before saving as an SVG </tspan></text>
+	<rect x="-136.5" y="58" fill="none" width="35" height="32.5"/>
+	<text transform="matrix(1 0 0 1 -136.5 60.1572)"><tspan x="0" y="0" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="3">Size</tspan><tspan x="0" y="5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">Cannot be wider or taller than </tspan><tspan x="0" y="8.5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">100px (artboard size)</tspan><tspan x="0" y="13.5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">Scale your icon to fill as much of </tspan><tspan x="0" y="16.5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">the artboard as possible</tspan></text>
+	<rect x="-94" y="58" fill="none" width="35" height="32.5"/>
+	<text transform="matrix(1 0 0 1 -94 60.1572)"><tspan x="0" y="0" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="3">Ungroup</tspan><tspan x="0" y="5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">If your design has more than one </tspan><tspan x="0" y="8" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">shape, make sure to ungroup</tspan></text>
+	<rect x="-50" y="58" fill="none" width="35" height="32.5"/>
+	<text transform="matrix(1 0 0 1 -50 60.1572)"><tspan x="0" y="0" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="3">Save as</tspan><tspan x="0" y="5" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">Save as .SVG and make sure </tspan><tspan x="0" y="8" fill="#B6CF00" font-family="'Helvetica'" font-size="2.4">&#8220;Use Artboards&#8221; is checked</tspan></text>
+	<text transform="matrix(1.0074 0 0 1 -125.542 30.5933)" fill="#B6CF00" font-family="'Helvetica'" font-size="2.5731">100px</text>
+	<text transform="matrix(1.0074 0 0 1 -41 39)" fill="#B6CF00" font-family="'Helvetica-Bold'" font-size="5.1462">.SVG</text>
+	<rect x="-126.514" y="34.815" fill="#B6CF00" width="10.261" height="10.185"/>
+	<rect x="-126.477" y="31.766" fill="#B6CF00" width="0.522" height="2.337"/>
+	<rect x="-116.812" y="31.766" fill="#B6CF00" width="0.523" height="2.337"/>
+	<rect x="-127" y="32.337" fill="#B6CF00" width="11.233" height="0.572"/>
+	<g>
+		<rect x="-83.805" y="33.844" fill="#B6CF00" width="10.305" height="10.156"/>
+		<rect x="-76.809" y="28.707" fill="#B6CF00" width="3.308" height="3.261"/>
+	</g>
+	<rect x="-178.5" y="22.5" fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+	<rect x="-136.5" y="22.5" fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+	<rect x="-93.5" y="22.5" fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+	<rect x="-49.5" y="22.5" fill="#B6CF00" stroke="#FFFFFF" stroke-miterlimit="10" width="30" height="30"/>
+</g>
+<g id="Your_Icon">
+	<path fill="#B6CF00" d="M68,77.009c0-6.831-1.881-41.541-14.836-39.986c-5.639,0.684-10.476,6.029-13.77,15.459   c-2.466,7.062-4.119,16.289-4.324,24.686c-0.001,0.03-0.024,0.059-0.023,0.088c-0.001,0.019-0.021,0.037-0.021,0.057   c-0.015,0.808-0.036,1.752-0.022,2.516c0.057,5.385-0.002,17.639-0.003,17.762c-0.002,0.524,0.202,1.243,0.572,1.616   c0.37,0.371,0.871,0.795,1.396,0.795h12.511c0.967,0,1.791-0.914,1.947-1.869l0.375-2.4l0.58,2.595   C52.593,99.213,53.388,100,54.3,100h11.268C66.655,100,68,98.687,68,97.599V77.33V77.009z M43.002,53.781   c2.724-7.8,6.419-12.361,10.401-12.844c0.117-0.014,0.23-0.021,0.344-0.021c3.215,0,6.221,6.496,8.045,17.375   c1.158,6.917,1.592,13.919,1.736,17.06L39.03,75.252C39.408,67.811,40.858,59.92,43.002,53.781z"/>
+	<path fill="#B6CF00" d="M67.415,35.225H37.857V0.643l31.714,1.394L67.415,35.225z M41.8,31.282H63.72l1.656-25.483L41.8,4.763   V31.282z"/>
+	<circle fill="#B6CF00" cx="48.945" cy="12.772" r="2.681"/>
+	<circle fill="#B6CF00" cx="58.06" cy="13.309" r="3.217"/>
+</g>
+</svg>
