@@ -36,13 +36,25 @@ header {
 
     transition: height 1s ease;
 }
-header a:link {
+header .toplink {
     display: inline-block;
     margin: 10px 0 0;
     padding: 0 1em;
     float: right;
 
     font-size: smaller;
+}
+header .toplink:hover {
+    background:red;
+}
+header .toplink .buttons {
+    display: none;
+}
+header .toplink.login {
+    background: #77D1F6;
+}
+header .toplink.login .buttons {
+    display: block;
 }
 header h1 {
     float: left;

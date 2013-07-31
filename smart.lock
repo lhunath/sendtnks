@@ -2,13 +2,19 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "router": {}
+      "router": {},
+      "accounts-persona": {}
     },
     "packages": {
       "router": {
         "git": "https://github.com/tmeasday/meteor-router.git",
         "tag": "v0.5.3",
         "commit": "7bd3a1bdd1099625bb8b49406d9b8f961d6f4a17"
+      },
+      "accounts-persona": {
+        "git": "https://github.com/vladikoff/meteor-accounts-persona.git",
+        "tag": "v0.1.5",
+        "commit": "7b57c91ad06b67fe49aee93e6148fa4234707023"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",

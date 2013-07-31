@@ -6,6 +6,19 @@ Meteor.Router.add({
   '/about': 'about',
   '*': '404'
 });
+Template.body.events({
+    'mouseenter #me': function (e) {
+        alert('mouseenter');
+        $('#me').addClass('login');
+    },
+    'mouseleave #me': function (e) {
+        alert('mouseleave');
+        $('#me').removeClass('login');
+    },
+    'click #me': function (e) {
+        alert('click');
+    }
+});
 
 /* TEMPLATE: send
  * -------------------------------------------------------------------------------------------------------------------------------------- */
@@ -31,20 +44,20 @@ Template.send.events({
         var target = $(e.currentTarget);
         target.find('textarea').focus();
     },
-    'focus .note': function(e) {
+    'focus .note textarea': function(e) {
         var target = $(e.currentTarget);
-        if (!target.is('.active'))
-            target.addClass('active');
+        if (!target.closest('.note').is('.active'))
+            target.closest('.note').addClass('active');
     },
-    'blur .note': function(e) {
+    'blur .note textarea': function(e) {
         var target = $(e.currentTarget);
-        if (!target.find('textarea').val().length)
-            target.removeClass('active');
+        if (!target.val().length)
+            target.closest('.note').removeClass('active');
     },
     'change .note textarea': function(e) {
         var target = $(e.currentTarget);
-        if (!target.find('textarea').val().length && !$('.note').is(":focus"))
-            target.removeClass('active');
+        if (!target.val().length && !target.is(":focus"))
+            target.closest('.note').removeClass('active');
     },
 });
 Template.send.rendered = function() {
@@ -103,3 +116,4 @@ function recalculate() {
     $('#send').find('.thanks-people').text(thanksString);
     $('#send').find('button').prop('disabled', people.length == 0);
 }
+

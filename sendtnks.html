@@ -4,12 +4,31 @@
     <title>Thanks!</title>
     <meta name="description" content="Say thanks for all the help.">
     <meta name="viewport" content="width=device-width">
+    <script>
+        (function() {
+            var t   = document.createElement('script');
+            t.type  = 'text/javascript';
+            t.async = true;
+            t.id    = 'persona-lib';
+            t.src = '//login.persona.org/include.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(t, s);
+        })();
+    </script>
 </head>
 <body>
+    {{>body}}
+</body>
 
+<template name="body">
     <header class="page-{{currentPage}}">
-        <a href="/about">About</a>
-        <a href="/me">Me</a>
+        <a class="toplink" href="/about">About</a>
+        <div id="#me" class="toplink" href="/me">
+            Me
+            <div class="buttons">
+                <a href="#" class="persona-button dark"><span>Sign in with your Email</span></a>
+            </div>
+        </div>
         <h1><a href="/">Send <strong>Tnks!</strong></a></h1>
     </header>
 
@@ -26,4 +45,4 @@
         g.src='//www.google-analytics.com/ga.js';
         s.parentNode.insertBefore(g,s)}(document,'script'));
     </script>
-</body>
+</template>
